@@ -1,0 +1,1 @@
+mongodb+srv://<admin>:<AaXx112233*>@cluster0.ajgpcue.mongodb.net/?appName=Cluster0
